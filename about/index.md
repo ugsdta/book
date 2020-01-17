@@ -4,6 +4,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: redirected
 sitemap: false
-permalink: /
-redirect_to: https://yumaatt.com
+#permalink: /
+redirect_to: https://yumaatt.com/about/
 ---
